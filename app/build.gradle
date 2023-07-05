@@ -4,7 +4,7 @@ plugins {
 
 android {
     namespace 'alirezamontazer.createbest.productcatalog_v3'
-    compileSdk 30
+    compileSdk 32
 
     defaultConfig {
         applicationId "alirezamontazer.createbest.productcatalog_v3"
